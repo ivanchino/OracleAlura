@@ -2,7 +2,15 @@ body{
     background: #CCCCCC;
 }
 
-h1, p{
+#banner{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
     text-align: center;
 }
 
