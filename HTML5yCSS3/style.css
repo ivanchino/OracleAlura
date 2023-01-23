@@ -192,7 +192,22 @@ td, th{
     text-align: center;
 }
 
-.imagenDiferenciales{
+.contenido-diferenciales{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-diferenciales{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.items{
+    line-height: 1.5;
+}
+
+.imagen-diferenciales{
     width: 60%;
 }
 
